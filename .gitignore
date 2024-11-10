@@ -1,0 +1,70 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.assetstore/
+node_modules/
+*.log
+
+# ============ #
+# OS Generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# ================================= #
+# Visual Studio / MonoDevelop Files #
+# ================================= #
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ============ #
+# Auto-Generated #
+# ============ #
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.swp
+*.swo
+
+# =================== #
+# Unity Generated Meta #
+# =================== #
+*.pidb.meta
+*.svd.meta
+*.userprefs.meta
+*.booproj.meta
+
+# ===================== #
+# Scriptable Render Pipeline #
+# ===================== #
+/Assets/SRP/Debugging/
