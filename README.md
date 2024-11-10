@@ -1,6 +1,6 @@
 # Ethereal Escape
 
-Escape from your nightmares!
+A VR parkour game where you try and outmanuever the water flooding a cave in your bad dream.
 
 ## Packages/Technologies used:
 
