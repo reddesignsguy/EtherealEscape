@@ -1,4 +1,11 @@
-# Ethereal Escape
+# Immmerse The Bay (Stanford XR) Hackathon
+
+## Demo
+
+[![Demo](https://img.youtube.com/vi/pCGDChb_iIA/0.jpg)](https://www.youtube.com/watch?v=pCGDChb_iIA)
+
+
+## About
 
 A VR parkour game where you try and outmanuever the water flooding a cave in your bad dream.
 
